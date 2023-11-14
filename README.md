@@ -1,2 +1,3 @@
-# portfolio2
-Algumas mudanças no portfolio antigo
+# portfolio ¹
+    /// Portfolio ///
+Daniel G Souza - Alura - Algar 
